@@ -1,3 +1,8 @@
+*
+!*.*
+!*/
+!Makefile
+
 # Prerequisites
 *.d
 
@@ -50,3 +55,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# IDE files
+.vscode/*
